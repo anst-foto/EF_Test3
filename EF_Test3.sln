@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Test3", "EF_Test3\EF_Test3.csproj", "{C252692D-F43F-4A51-BCB8-63C75CCF52B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Test3.DbLib", "EF_Test3.DbLib\EF_Test3.DbLib.csproj", "{DB17AE78-3E09-4905-8A56-EECECEDFC7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Test3.Models", "EF_Test3.Models\EF_Test3.Models.csproj", "{B81727B5-F83A-4813-B819-A303088857BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C252692D-F43F-4A51-BCB8-63C75CCF52B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C252692D-F43F-4A51-BCB8-63C75CCF52B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C252692D-F43F-4A51-BCB8-63C75CCF52B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C252692D-F43F-4A51-BCB8-63C75CCF52B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB17AE78-3E09-4905-8A56-EECECEDFC7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB17AE78-3E09-4905-8A56-EECECEDFC7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB17AE78-3E09-4905-8A56-EECECEDFC7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB17AE78-3E09-4905-8A56-EECECEDFC7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81727B5-F83A-4813-B819-A303088857BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81727B5-F83A-4813-B819-A303088857BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81727B5-F83A-4813-B819-A303088857BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81727B5-F83A-4813-B819-A303088857BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
